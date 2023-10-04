@@ -1,4 +1,4 @@
-Certainly! Here's a titled bio for a fresher Python developer:
+
 
 ### Python Enthusiast & Aspiring Developer 🐍
 
